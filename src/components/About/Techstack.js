@@ -11,11 +11,11 @@ import {
   DiJava,
 } from "react-icons/di";
 import {
-  SiRedis,
+  /* SiRedis, */
   SiFirebase,
   SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
+  /* SiSolidity,
+  SiPostgresql, */
 } from "react-icons/si";
 
 
