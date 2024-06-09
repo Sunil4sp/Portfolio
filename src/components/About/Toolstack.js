@@ -5,7 +5,7 @@ import {
   SiPostman,
   SiSlack,
   SiVercel,
-  SiMacos,
+  /* SiMacos, */
 } from "react-icons/si";
 
 function Toolstack() {
